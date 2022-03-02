@@ -6,6 +6,7 @@
 
 ## Guide
 My new java project
+My new clean job
 ### Travis Setup
 
 Add the following to your `.travis.yml`:
